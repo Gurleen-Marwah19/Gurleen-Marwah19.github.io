@@ -1,8 +1,6 @@
-# **Hi there**
-Welcome to my personal portfolio!!
-
-My name is Gurleen Kaur
-Pronouns: She/Her
+# **Hi there, Welcome to my personal portfolio!! **
+- My name is Gurleen Kaur
+- Pronouns: She/Her
 
 ## **About Me**
 I am a **Business Data Analyst - Supply Chain** with over 5 years of experience and a strong background in supply chain optimization, inventory management and process automation. Proficient in Excel, SQL, Power BI, and data analytics to enhance operational efficiency, reduce costs, and improve forecasting. Adept at transforming complex data into actionable insights to drive business performance and strategic decision-making.
